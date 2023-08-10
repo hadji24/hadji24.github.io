@@ -1,1 +1,9 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.qnet.biz",
+    "sha256_cert_fingerprints":
+    ["F3:4B:50:FA:47:3C:B8:DB:55:D8:19:05:CD:F4:C7:A8:5E:76:4E:24:8F:9A:F0:EC:24:FB:DD:47:FD:79:B4:45"]
+  }
+}]
